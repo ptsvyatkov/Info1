@@ -1,0 +1,74 @@
+Task 3
+
+So we know that print needs to be of type void and we have to use System.out.println(author) to print it out
+
+same thing for title as for author
+
+
+/*
+ * printAuthor method
+ */
+public void printAuthor()
+{
+    System.out.println(author);
+}
+
+/*
+ * printTitle method
+ */
+public void printTitle()
+{
+    System.out.println(title);
+}
+
+
+
+Task 4
+We created a field in the main class and set it to private int pages
+Then we initialized it in the constructor and set the value to 1
+
+
+We added a new method to get the number of pages
+/*
+ * getPages method
+ */
+public int getPages()
+{
+    return pages;
+}
+
+Task 5
+
+Since we want to print it out we use void and System.print.out method
+We add concatenation to make it clear what we want to print
+
+/*
+ * printDetails method about the book
+ */
+public void printDetails()
+{
+    System.out.println("Author: " + author);
+    System.out.println("Title: " + title);
+    System.out.println("Page: " + pages);
+}
+
+Task 6
+
+We needed to check in internet and we found a picture about this task, which helped us:
+https://javarevisited.blogspot.com/2016/01/how-to-check-if-string-is-not-null-and-empty-in-java-example.html
+
+private String refNumber in the class as a field
+in the constructor we initialized String refNumber = new String(); as a zero-length String
+
+We added public void setRefNumber(String ref) 
+assigned refNumber to ref 
+
+and then we added an accessor method called "public String getRefNumber()" and returned it.
+our first mistake was, we assumed that because it had nambe rin the name, we made it int and it didn't work out since refnumber is declared as String.
+
+Task 7
+
+we first set in the constructor refNumber  to new String()
+but it overloaded our programm because it didn't need to have something.
+so we had to set it to be emtpy as follows refNumber = "";
+

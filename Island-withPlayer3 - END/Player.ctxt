@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Player
+comment0.text=\r\n\ The\ Player\ class\ holds\ the\ information\ about\ the\ current\ player\ as\ well\ as\ the\ player's\ current\ location\ and\ the\ items\ they\ have\ with\ them.\ \r\n\ \r\n\ @author\ \ Pavel\ Tsvyatkov\ &\ Stepan\ Burlachenko\r\n\ @version\ 2019\r\n
+comment1.params=
+comment1.target=Player()
+comment1.text=\r\n\ Constructor\ for\ creating\ a\ new\ player\ that\ \r\n\ starts\ at\ currentLocation\ and\ has\ a\ backpack\ \r\n\ with\ weight\ limit\ of\ 8kg.\r\n
+comment2.params=place
+comment2.target=void\ setLocation(Location)
+comment2.text=\r\n\ Sets\ the\ current\ location\ of\ the\ player\r\n\ @param\ place\ the\ location\ of\ the\ player\r\n
+comment3.params=
+comment3.target=Location\ getLocation()
+comment3.text=\r\n\ Accessor\ method\ to\ get\ the\ current\ location\r\n
+comment4.params=command
+comment4.target=void\ takeItem(Command)
+comment4.text=\r\n\ This\ is\ the\ method\ that\ simulates\ taking\ an\ item\ from\ a\ room.\r\n\ We\ take\ the\ second\ word,\ similarly\ to\ the\ goLocation\ method\ and\r\n\ use\ that\ word\ as\ the\ item\ that\ we\ are\ trying\ to\ pick.\r\n\ @param\ command\ the\ item\ we\ are\ trying\ to\ pick\r\n
+comment5.params=command
+comment5.target=void\ dropItem(Command)
+comment5.text=\r\n\ This\ is\ the\ method\ that\ simulates\ dropping\ an\ item\ from\ our\ backpack.\r\n\ We\ take\ the\ second\ word,\ similarly\ to\ the\ takeItem\ method\ and\r\n\ use\ that\ word\ as\ the\ item\ that\ we\ are\ trying\ to\ drop.\r\n\ @param\ command\ the\ item\ we\ are\ trying\ to\ drop\r\n
+numComments=6

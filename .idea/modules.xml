@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/0-figures/0-figures.iml" filepath="$PROJECT_DIR$/0-figures/0-figures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1-better-ticket-machine/1-better-ticket-machine.iml" filepath="$PROJECT_DIR$/1-better-ticket-machine/1-better-ticket-machine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2-Book-Exercise/2-Book-Exercise.iml" filepath="$PROJECT_DIR$/2-Book-Exercise/2-Book-Exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/9diary project/9diary project.iml" filepath="$PROJECT_DIR$/9diary project/9diary project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BlueJ projects.iml" filepath="$PROJECT_DIR$/BlueJ projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/9diary project/New folder/New folder.iml" filepath="$PROJECT_DIR$/9diary project/New folder/New folder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10GameOfLifeDifferent/gameOfLifeFromLab/gameOfLifeFromLab.iml" filepath="$PROJECT_DIR$/10GameOfLifeDifferent/gameOfLifeFromLab/gameOfLifeFromLab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10GameOfLifeDifferent/newestGameOfLife/newestGameOfLife.iml" filepath="$PROJECT_DIR$/10GameOfLifeDifferent/newestGameOfLife/newestGameOfLife.iml" />
+    </modules>
+  </component>
+</project>

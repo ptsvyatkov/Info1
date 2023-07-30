@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/10.gameOfLifeFINAL" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/12World of You - ISLAND-final" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3.0-clock-display" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3.1-clock-display" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3.2clock-display" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/4.aExrcs4-Notebook-withSearch" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/4.notebook1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/5.music-organizer-v5" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/6.notebook1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/7.animal-monitoring-v1-real" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/8.tech-support1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/9.diary-testing-junit-v2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Island-withPlayer3 - END" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="jl1.0.1" level="project" />
+  </component>
+</module>

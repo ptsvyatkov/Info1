@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Location
+comment0.text=\r\n\ Class\ Location\ -\ a\ location\ in\ an\ adventure\ game.\r\n\ \r\n\ @author\ \ \ Pavel\ Tsvyatkov\ &\ Stepan\ Burlachenko\r\n\ @version\ 2019\r\n
+comment1.params=description
+comment1.target=Location(java.lang.String)
+comment1.text=\r\n\ Create\ a\ location\ described\ "description".\ Initially,\ it\ has\r\n\ no\ exits.\ "description"\ is\ something\ like\ "a\ kitchen"\ or\r\n\ "an\ open\ court\ yard".\r\n\ @param\ description\ The\ room's\ description.\r\n
+comment2.params=direction\ neighbor
+comment2.target=void\ setExit(java.lang.String,\ Location)
+comment2.text=\r\n\ Here\ we\ can\ set\ an\ exit\ from\ this\ Location.\r\n\ @param\ direction\ The\ exit's\ direction.\r\n\ @param\ neighbor\ \ The\ location\ to\ which\ the\ exit\ leads.\r\n
+comment3.params=
+comment3.target=java.lang.String\ getShortDescription()
+comment3.text=\r\n\ @return\ The\ short\ description\ of\ our\ Location.\r\n
+comment4.params=
+comment4.target=java.lang.String\ getLongDescription()
+comment4.text=\r\n\ Returns\ a\ more\ detailed\ description\ of\ the\ location.\r\n\ @return\ Long\ description\ of\ this\ location.\r\n
+comment5.params=
+comment5.target=java.lang.String\ getExitString()
+comment5.text=\r\n\ This\ method\ shows\ the\ possible\ exits\ in\ a\ location.\r\n\ @return\ location\ exits.\r\n
+comment6.params=direction
+comment6.target=Location\ getExit(java.lang.String)
+comment6.text=\r\n\ Returns\ the\ Location\ we\ went\ to\ and\ if\ there\ wasn't\ anything\r\n\ in\ the\ direction\ we\ specified,\ it\ should\ return\ null.\r\n\ @param\ direction\ Direction\ of\ the\ exit.\r\n\ @return\ After\ we\ have\ moved\ to\ a\ direction,\ return\ the\ location.\r\n
+numComments=7

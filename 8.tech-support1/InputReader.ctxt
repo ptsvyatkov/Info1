@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=InputReader
+comment0.text=\r\n\ InputReader\ reads\ typed\ text\ input\ from\ the\ standard\ text\ terminal.\ \r\n\ A\ user's\ input\ is\ then\ broken\ down\ into\ individual\ words,\ separated\ on\ every\ whitespace,\ and\ returned\ in\ a\ HashSet.\r\n\ \r\n\ @author\ \ \ \ \ Michael\ Kolling\ and\ David\ J.\ Barnes\r\n\ @version\ \ \ \ 0.1\r\n
+comment1.params=
+comment1.target=InputReader()
+comment1.text=\r\n\ Create\ a\ new\ InputReader\ that\ reads\ text\ from\ the\ text\ terminal.\r\n
+comment2.params=
+comment2.target=java.util.HashSet\ getInput()
+comment2.text=\r\n\ The\ getInput\ method\ takes\ no\ parameters.\ It\ reads\r\n\ a\ line\ of\ text\ from\ standard\ input\ (the\ text\ terminal),\ we\r\n\ then\ use\ trim()\ to\ remove\ leading\ and\ trailing\ whitespace,\ then\r\n\ by\ using\ toLowerCase()\ the\ input\ is\ now\ lowercase.\ In\ the\ end\r\n\ we\ replace\ all\ punctuation\ marks.\ We\ use\ the\ .split()\ method\ to\ \r\n\ split\ the\ user's\ input\ on\ every\ whitespace.\ We\ use\ a\ for\ loop\ to\r\n\ add\ every\ word\ from\ the\ input\ into\ a\ HashSet\ called\ words.\r\n\r\n\ @return\ \ A\ set\ of\ Strings,\ but\ now\ each\ String\ is\ every\ single\ word\r\n\ typed\ by\ the\ user.\r\n
+numComments=3
