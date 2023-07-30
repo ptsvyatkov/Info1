@@ -1,5 +1,6 @@
 # Info1
-Intro to Programming with Java - projects done in the Summer semester of 2019
+Intro to Programming with Java - projects done in the Summer semester of 2019. <br>
+Weekly exercises and written reports.
 
 ### Schedule
 Can be found here: https://people.f4.htw-berlin.de/~weberwu/info1/SS19/schedule.shtml
