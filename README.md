@@ -1,5 +1,6 @@
 # Info1
-Intro to Programming with Java - projects done in the Summer semester of 2019. <br>
+Intro to Programming with Java - projects done in the Summer semester of 2019 at the HTW Berlin for the Informatics I course taught by Prof. Dr. Debora Weber-Wulff. <br>
+Course introduction: https://people.f4.htw-berlin.de/~weberwu/info1/SS19/
 Weekly exercises and written reports.
 
 ### Schedule
