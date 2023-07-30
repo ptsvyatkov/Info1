@@ -1,6 +1,6 @@
-# Info1
+# Informatics 1
 Intro to Programming with Java - Summer semester 2019<br>
-Informatics I course at HTW Berlin taught by Prof. Dr. Debora Weber-Wulff. <br>
+Informatics 1 course at HTW Berlin taught by Prof. Dr. Debora Weber-Wulff. <br>
 Course introduction: https://people.f4.htw-berlin.de/~weberwu/info1/SS19/ <br>
 
 ### Schedule
